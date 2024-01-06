@@ -9,8 +9,11 @@ The code can be found in the folder *Bidding_on_Combinatorial_Electricity_Auctio
   - Auxiliary_Functions.py
   - Case_Study_Models.py
   - Optimization_Models.py
+  - 
 contains the optimization models and case studies presented in the paper as well as auxiliary functions necessary to run the experiments.
+
 The files
+
  - main_Analysis_Bid_Number.py
  - main_Analysis_Scenario_Number.py
  - main_Comparison_Bidding_Approaches.py
