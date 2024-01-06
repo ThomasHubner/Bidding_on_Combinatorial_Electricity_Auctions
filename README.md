@@ -15,22 +15,32 @@ The files
  - main_Analysis_Scenario_Number.py
  - main_Comparison_Bidding_Approaches.py
  - main_Analysis_Forecast.py
+   
 can be executed to run the respective experiments. The results are written into the folders
+
 - Results_Analysis_Forecast
 - Results_Comparison
 - Results_Sensitivity_Analysis
+  
 which contains the following functions to generate the plots presented in the paper:
+
 - Plot_Analysis_Forecast.py
 - Plot_Comparison_Bidding_Approaches.py
 - Plot_Sensitivity_Analysis.py
+- 
 The code to generate the illustrative figures presented in the article can be found in the folder
+
 - Figures
   - Plot_Block_Bids.py
   - Plot_Data.py
   - Plot_Theorem1.py
+    
 The csv files
+
 - Real_DE.csv
 - Forecast_DE.csv
+  
 contain the real and forecasted electricity prices used in the experiments. Those files were generated using the file
+
 - Point_Forecast
     - Point_Forecast.py
