@@ -1,15 +1,15 @@
 # Bidding on Combinatorial Electricity Auctions
-Decision-support algorithms for bid determination on combinatorial electrcity markets.
+Decision-support algorithms for bid determination on combinatorial electricity markets.
 
 This repository is an accompaniment to the paper titled *Bidding on Combinatorial Electricity Auctions* by Thomas Hübner and Gabriela Hug.
 It contains the code used to conduct computational experiments. 
-Details and results can be found in the above mentioned paper.
+Details and results can be found in the above-mentioned paper.
 
 The code can be found in the folder *Bidding_on_Combinatorial_Electricity_Auctions*. The files
   - Auxiliary_Functions.py
   - Case_Study_Models.py
   - Optimization_Models.py
-  - 
+    
 contains the optimization models and case studies presented in the paper as well as auxiliary functions necessary to run the experiments.
 
 The files
@@ -30,7 +30,7 @@ which contains the following functions to generate the plots presented in the pa
 - Plot_Analysis_Forecast.py
 - Plot_Comparison_Bidding_Approaches.py
 - Plot_Sensitivity_Analysis.py
-- 
+  
 The code to generate the illustrative figures presented in the article can be found in the folder
 
 - Figures
@@ -43,7 +43,7 @@ The csv files
 - Real_DE.csv
 - Forecast_DE.csv
   
-contain the real and forecasted electricity prices used in the experiments. Those files were generated using the file
+contain the real and forecasted electricity prices used in the experiments. Those files were generated using
 
 - Point_Forecast
     - Point_Forecast.py
