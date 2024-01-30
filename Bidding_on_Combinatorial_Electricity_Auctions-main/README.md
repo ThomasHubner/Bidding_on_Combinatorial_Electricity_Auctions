@@ -16,19 +16,17 @@ The files
 
  - main_Analysis_Bid_Number.py
  - main_Analysis_Scenario_Number.py
- - main_Comparison_Bidding_Approaches.py
+ - main_Analysis_Self-Schedule.py
  - main_Analysis_Forecast.py
    
 can be executed to run the respective experiments. The results are written into the folders
 
 - Results_Analysis_Forecast
-- Results_Comparison
 - Results_Sensitivity_Analysis
   
 which contains the following functions to generate the plots presented in the paper:
 
 - Plot_Analysis_Forecast.py
-- Plot_Comparison_Bidding_Approaches.py
 - Plot_Sensitivity_Analysis.py
   
 The code to generate the illustrative figures presented in the article can be found in the folder
