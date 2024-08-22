@@ -1,5 +1,5 @@
 # Bidding on Combinatorial Electricity Auctions
-Decision-support algorithms for bid determination on combinatorial electricity markets.
+Decision-support algorithms for bid selection on combinatorial electricity markets.
 
 This repository is an accompaniment to the paper titled *Bidding on Combinatorial Electricity Auctions* by Thomas Hübner and Gabriela Hug.
 It contains the code used to conduct computational experiments. 
